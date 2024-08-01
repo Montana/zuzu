@@ -15,7 +15,7 @@ connections = {}
 whitelist = ["192.168.1.1"]
 blacklist = ["192.168.1.50"]
 
-# email configuration (i don't need it, but some people might want it for alerts) 
+# email configuration (i don't need it, but some people might want it for alerts, so i added it in here.) 
 EMAIL_ADDRESS = "your_email@example.com"
 EMAIL_PASSWORD = "your_password"
 ALERT_RECIPIENT = "alert_recipient@example.com"
